@@ -1,0 +1,6 @@
+Mgbd	gbd.c	/^int main() {$/
+control_print	gbd.c	/^void control_print() {$/
+get_int	gbd.c	/^int get_int() {$/
+get_max_drivers	gbd.c	/^void get_max_drivers() {$/
+get_route	gbd.c	/^void get_route(int driver) {$/
+init_gossips	gbd.c	/^void init_gossips() {$/
